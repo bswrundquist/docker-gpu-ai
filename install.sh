@@ -29,7 +29,6 @@ pip install Faker
 
 pip install cryptography
 pip install pycryptodomex
-pip install pynacl
 
 conda install -c conda-forge hdbscan
 
